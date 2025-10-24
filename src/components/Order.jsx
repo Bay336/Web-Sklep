@@ -6,7 +6,7 @@ export class Order extends Component {
     return (
       <div className='item'>
 
-        <img src={'src/image/' + this.props.item.img} />
+        <img src={'public/image/' + this.props.item.img} />
         <h2>{this.props.item.title}</h2>
         <b>{this.props.item.price} Р</b>
         <FaTrash className='delete-icon'

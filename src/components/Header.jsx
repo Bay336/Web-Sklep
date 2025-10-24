@@ -47,7 +47,7 @@ export default function Header(props) {
  
     <header> 
         <div>
-          <img className="header-img" src={'src/avatar.jpg'} alt="#" />
+          <img className="header-img" src={'/avatar.jpg'} alt="#" />
           <span className='logo'>WEB МАГАЗИН
           </span>
 

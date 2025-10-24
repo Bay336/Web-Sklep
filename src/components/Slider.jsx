@@ -12,7 +12,7 @@ export const Slider = () => {
              </Carousel.Caption>
              <img
                className="d-block w-100"
-               src="src/img/im-1.jpg"
+               src="/img/im-1.jpg"
                alt="First slide"
              /> 
         </Carousel.Item>
@@ -24,7 +24,7 @@ export const Slider = () => {
             </Carousel.Caption>
             <img
             className="d-block w-100"
-            src="src/img/im-8.jpg"
+            src="/img/im-8.jpg"
             alt="Second slide"
             />
         </Carousel.Item>
@@ -36,7 +36,7 @@ export const Slider = () => {
             </Carousel.Caption>
            <img
             className="d-block w-100"
-            src="src/img/im-9.jpg"
+            src="/img/im-9.jpg"
             alt="Third slide"
            />
         </Carousel.Item>
